@@ -6,3 +6,4 @@ fn main() {
     println!("Hello, World!");
 }
 ```
+where ```fn``` is an abbreviation for function.
